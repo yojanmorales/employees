@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "96df03d2ddef7779714d77aa1035746d9674e37b"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MasGlobal.Factory/1.0.0": {
+        "dependencies": {
+          "MasGlobal.Model": "1.0.0",
+          "MasGlobal.Service": "1.0.0"
+        },
+        "runtime": {
+          "MasGlobal.Factory.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "RestSharp/106.6.9": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.6.9.0",
+            "fileVersion": "106.6.9.0"
+          }
+        }
+      },
+      "MasGlobal.Contracts/1.0.0": {
+        "dependencies": {
+          "MasGlobal.Model": "1.0.0"
+        },
+        "runtime": {
+          "MasGlobal.Contracts.dll": {}
+        }
+      },
+      "MasGlobal.Model/1.0.0": {
+        "runtime": {
+          "MasGlobal.Model.dll": {}
+        }
+      },
+      "MasGlobal.Service/1.0.0": {
+        "dependencies": {
+          "MasGlobal.Contracts": "1.0.0",
+          "MasGlobal.Model": "1.0.0",
+          "Newtonsoft.Json": "12.0.1",
+          "RestSharp": "106.6.9"
+        },
+        "runtime": {
+          "MasGlobal.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MasGlobal.Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "RestSharp/106.6.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8RNSrGB8OJqkVnUno0amSL1dsTXGkqVjRvpgwhDR1cy4xhwc/6PWAJFiz6B5cnwmCB9aYMGaHrgKfTt6iMziqw==",
+      "path": "restsharp/106.6.9",
+      "hashPath": "restsharp.106.6.9.nupkg.sha512"
+    },
+    "MasGlobal.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MasGlobal.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MasGlobal.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

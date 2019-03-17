@@ -1,0 +1,5 @@
+C:\git\masGlobal\MasGlobal.Employees\MasGlobal.Database\bin\Debug\MasGlobal.Database.dacpac
+C:\git\masGlobal\MasGlobal.Employees\MasGlobal.Database\obj\Debug\MasGlobal.Database.dll
+C:\git\masGlobal\MasGlobal.Employees\MasGlobal.Database\obj\Debug\MasGlobal.Database.pdb
+C:\git\masGlobal\MasGlobal.Employees\MasGlobal.Database\bin\Debug\MasGlobal.Database.dll
+C:\git\masGlobal\MasGlobal.Employees\MasGlobal.Database\bin\Debug\MasGlobal.Database.pdb
