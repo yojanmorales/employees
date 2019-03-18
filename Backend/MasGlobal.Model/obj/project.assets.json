@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Model\\MasGlobal.Model.csproj",
+      "projectUniqueName": "C:\\git\\employees\\Backend\\MasGlobal.Model\\MasGlobal.Model.csproj",
       "projectName": "MasGlobal.Model",
-      "projectPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Model\\MasGlobal.Model.csproj",
+      "projectPath": "C:\\git\\employees\\Backend\\MasGlobal.Model\\MasGlobal.Model.csproj",
       "packagesPath": "C:\\Users\\Computer GAP\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Model\\obj\\",
+      "outputPath": "C:\\git\\employees\\Backend\\MasGlobal.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

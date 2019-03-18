@@ -12060,11 +12060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Employees\\MasGlobal.Employees.csproj",
+      "projectUniqueName": "C:\\git\\employees\\Backend\\MasGlobal.Employees\\MasGlobal.Employees.csproj",
       "projectName": "MasGlobal.Employees",
-      "projectPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Employees\\MasGlobal.Employees.csproj",
+      "projectPath": "C:\\git\\employees\\Backend\\MasGlobal.Employees\\MasGlobal.Employees.csproj",
       "packagesPath": "C:\\Users\\Computer GAP\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Employees\\obj\\",
+      "outputPath": "C:\\git\\employees\\Backend\\MasGlobal.Employees\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12084,14 +12084,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\git\\MasEmployee\\Backend\\MasGlobal.Contracts\\MasGlobal.Contracts.csproj": {
-              "projectPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Contracts\\MasGlobal.Contracts.csproj"
+            "C:\\git\\employees\\Backend\\MasGlobal.Contracts\\MasGlobal.Contracts.csproj": {
+              "projectPath": "C:\\git\\employees\\Backend\\MasGlobal.Contracts\\MasGlobal.Contracts.csproj"
             },
-            "C:\\git\\MasEmployee\\Backend\\MasGlobal.Factory\\MasGlobal.Factory.csproj": {
-              "projectPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Factory\\MasGlobal.Factory.csproj"
+            "C:\\git\\employees\\Backend\\MasGlobal.Factory\\MasGlobal.Factory.csproj": {
+              "projectPath": "C:\\git\\employees\\Backend\\MasGlobal.Factory\\MasGlobal.Factory.csproj"
             },
-            "C:\\git\\MasEmployee\\Backend\\MasGlobal.Model\\MasGlobal.Model.csproj": {
-              "projectPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Model\\MasGlobal.Model.csproj"
+            "C:\\git\\employees\\Backend\\MasGlobal.Model\\MasGlobal.Model.csproj": {
+              "projectPath": "C:\\git\\employees\\Backend\\MasGlobal.Model\\MasGlobal.Model.csproj"
             }
           }
         }

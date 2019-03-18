@@ -5903,11 +5903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\MasEmployee\\Backend\\MasGlobal.UnitTest\\MasGlobal.UnitTest.csproj",
+      "projectUniqueName": "C:\\git\\employees\\Backend\\MasGlobal.UnitTest\\MasGlobal.UnitTest.csproj",
       "projectName": "MasGlobal.UnitTest",
-      "projectPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.UnitTest\\MasGlobal.UnitTest.csproj",
+      "projectPath": "C:\\git\\employees\\Backend\\MasGlobal.UnitTest\\MasGlobal.UnitTest.csproj",
       "packagesPath": "C:\\Users\\Computer GAP\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.UnitTest\\obj\\",
+      "outputPath": "C:\\git\\employees\\Backend\\MasGlobal.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5927,11 +5927,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\git\\MasEmployee\\Backend\\MasGlobal.Contracts\\MasGlobal.Contracts.csproj": {
-              "projectPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Contracts\\MasGlobal.Contracts.csproj"
+            "C:\\git\\employees\\Backend\\MasGlobal.Contracts\\MasGlobal.Contracts.csproj": {
+              "projectPath": "C:\\git\\employees\\Backend\\MasGlobal.Contracts\\MasGlobal.Contracts.csproj"
             },
-            "C:\\git\\MasEmployee\\Backend\\MasGlobal.Factory\\MasGlobal.Factory.csproj": {
-              "projectPath": "C:\\git\\MasEmployee\\Backend\\MasGlobal.Factory\\MasGlobal.Factory.csproj"
+            "C:\\git\\employees\\Backend\\MasGlobal.Factory\\MasGlobal.Factory.csproj": {
+              "projectPath": "C:\\git\\employees\\Backend\\MasGlobal.Factory\\MasGlobal.Factory.csproj"
             }
           }
         }
