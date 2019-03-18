@@ -13,6 +13,7 @@ The main frameworks and libraries used to build this project are:
 
 created with .net core and Odata
   - Url Odata: https://localhost:44372/odata/employees
+  ![alt text](https://github.com/yojanmorales/employees/blob/master/Images/odata.PNG)
   
 #FrontEnd
 
@@ -25,3 +26,7 @@ created with .net core and Odata
   ```
   npm start
   ```
+  
+  ![alt text](https://github.com/yojanmorales/employees/blob/master/Images/app.PNG)
+
+
