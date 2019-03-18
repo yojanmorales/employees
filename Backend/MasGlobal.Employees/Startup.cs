@@ -76,6 +76,9 @@ namespace MasGlobal.Employees
         {
             ODataConventionModelBuilder builder = new ODataConventionModelBuilder();
             builder.EntitySet<Employee>("Employees");
+            var employeeSet = builder.EntitySet<Employee>("Employees");
+            employeeSet.EntityType.Count().Filter().OrderBy().Expand().Select();
+
             return builder.GetEdmModel();
         }
     }

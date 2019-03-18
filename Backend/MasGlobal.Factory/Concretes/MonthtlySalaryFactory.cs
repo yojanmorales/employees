@@ -14,6 +14,7 @@ namespace MasGlobal.Factory
             RoleDescription = employee.RoleDescription;
             HourlySalary = employee.HourlySalary;
             MonthlySalary = employee.MonthlySalary;
+            Id = employee.Id;
         }
     }
 }

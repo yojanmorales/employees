@@ -22,3 +22,15 @@ C:\git\masglobalTI\MasGlobal.Employees\MasGlobal.Contracts\obj\Debug\netcoreapp2
 C:\git\masglobalTI\MasGlobal.Employees\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.csproj.CopyComplete
 C:\git\masglobalTI\MasGlobal.Employees\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.dll
 C:\git\masglobalTI\MasGlobal.Employees\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.pdb
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\bin\Debug\netcoreapp2.1\MasGlobal.Contracts.deps.json
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\bin\Debug\netcoreapp2.1\MasGlobal.Contracts.dll
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\bin\Debug\netcoreapp2.1\MasGlobal.Contracts.pdb
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\bin\Debug\netcoreapp2.1\MasGlobal.Model.dll
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\bin\Debug\netcoreapp2.1\MasGlobal.Model.pdb
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.csprojAssemblyReference.cache
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.csproj.CoreCompileInputs.cache
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.AssemblyInfoInputs.cache
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.AssemblyInfo.cs
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.csproj.CopyComplete
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.dll
+C:\git\MasEmployee\Backend\MasGlobal.Contracts\obj\Debug\netcoreapp2.1\MasGlobal.Contracts.pdb

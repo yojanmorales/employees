@@ -16,3 +16,12 @@ C:\git\masglobalTI\MasGlobal.Employees\MasGlobal.Model\obj\Debug\netcoreapp2.1\M
 C:\git\masglobalTI\MasGlobal.Employees\MasGlobal.Model\obj\Debug\netcoreapp2.1\MasGlobal.Model.AssemblyInfo.cs
 C:\git\masglobalTI\MasGlobal.Employees\MasGlobal.Model\obj\Debug\netcoreapp2.1\MasGlobal.Model.dll
 C:\git\masglobalTI\MasGlobal.Employees\MasGlobal.Model\obj\Debug\netcoreapp2.1\MasGlobal.Model.pdb
+C:\git\MasEmployee\Backend\MasGlobal.Model\bin\Debug\netcoreapp2.1\MasGlobal.Model.deps.json
+C:\git\MasEmployee\Backend\MasGlobal.Model\bin\Debug\netcoreapp2.1\MasGlobal.Model.dll
+C:\git\MasEmployee\Backend\MasGlobal.Model\bin\Debug\netcoreapp2.1\MasGlobal.Model.pdb
+C:\git\MasEmployee\Backend\MasGlobal.Model\obj\Debug\netcoreapp2.1\MasGlobal.Model.csprojAssemblyReference.cache
+C:\git\MasEmployee\Backend\MasGlobal.Model\obj\Debug\netcoreapp2.1\MasGlobal.Model.csproj.CoreCompileInputs.cache
+C:\git\MasEmployee\Backend\MasGlobal.Model\obj\Debug\netcoreapp2.1\MasGlobal.Model.AssemblyInfoInputs.cache
+C:\git\MasEmployee\Backend\MasGlobal.Model\obj\Debug\netcoreapp2.1\MasGlobal.Model.AssemblyInfo.cs
+C:\git\MasEmployee\Backend\MasGlobal.Model\obj\Debug\netcoreapp2.1\MasGlobal.Model.dll
+C:\git\MasEmployee\Backend\MasGlobal.Model\obj\Debug\netcoreapp2.1\MasGlobal.Model.pdb

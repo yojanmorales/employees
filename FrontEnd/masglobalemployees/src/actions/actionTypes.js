@@ -1,0 +1,2 @@
+export const SET_EMPLOYEES= 'SET_MERCHANTS';
+export const AJAX_LOADING = 'AJAX_LOADING';

@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasGlobal.UnitTest", "MasGl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasGlobal.Factory", "MasGlobal.Factory\MasGlobal.Factory.csproj", "{34531B93-9015-46CC-AEEA-34C5C70B94A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasGlobal.Contracts", "MasGlobal.Contracts\MasGlobal.Contracts.csproj", "{0810D978-2E60-40CF-BAC6-FC8F323DE301}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasGlobal.Contracts", "MasGlobal.Contracts\MasGlobal.Contracts.csproj", "{0810D978-2E60-40CF-BAC6-FC8F323DE301}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Back", "Back", "{67F7B492-9ACF-4103-B2AA-94D60EEE7934}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +50,14 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F135B7EC-2E74-4445-8349-AACB6084F310} = {67F7B492-9ACF-4103-B2AA-94D60EEE7934}
+		{2E7A838F-05E2-4B8B-B000-B7DFE16D73B2} = {67F7B492-9ACF-4103-B2AA-94D60EEE7934}
+		{FC3A505D-2811-4453-AE21-C658D3DB4A5D} = {67F7B492-9ACF-4103-B2AA-94D60EEE7934}
+		{325A5B91-86E1-41D5-B7B1-612227992454} = {67F7B492-9ACF-4103-B2AA-94D60EEE7934}
+		{34531B93-9015-46CC-AEEA-34C5C70B94A1} = {67F7B492-9ACF-4103-B2AA-94D60EEE7934}
+		{0810D978-2E60-40CF-BAC6-FC8F323DE301} = {67F7B492-9ACF-4103-B2AA-94D60EEE7934}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2BD1DBCB-4B3A-411A-85ED-82D3A104A0F3}
